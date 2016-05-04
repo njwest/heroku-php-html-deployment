@@ -1,0 +1,20 @@
+header{
+	text-align: center;
+	background-color: #554391;
+}
+
+p{
+	text-align: center;
+	color:#554391;
+	font-weight:bold;
+}
+
+.header{
+	color: #ffffff;
+	text-align:center;
+}
+
+.section-title{
+	text-align: center;
+	color: #00BB11;
+}
